@@ -1,0 +1,11 @@
+-rw-r--r-- 1 gorets gorets 1092 Mar  7 23:26 chtoto
+-rw-r--r-- 1 gorets gorets   10 Mar  7 01:56 f1.sh
+-rw-r--r-- 1 gorets gorets   38 Mar  7 01:55 file
+-rw-r--r-- 1 gorets gorets  372 Feb 21 09:18 file1
+-rw-r--r-- 1 gorets gorets   90 Mar  7 01:52 filee
+-rw-r--r-- 1 gorets gorets    0 Mar  8 20:19 kill
+-rw-r--r-- 1 gorets gorets  222 Mar  8 23:50 killer.sh
+-rw-r--r-- 1 gorets gorets    0 Mar  8 20:18 pkill
+-rw-r--r-- 1 root   root      0 Mar  8 20:53 tail
+-r-xr----- 1 gorets gorets    2 Mar  9 11:40 test
+-rw-r--r-- 1 gorets gorets   68 Mar  8 23:02 text.txt
